@@ -1,5 +1,5 @@
 BRCA Subtype Analysis 🧬
-This repository contains a Jupyter Notebook for analyzing breast cancer (BRCA) subtypes using genomic data. The analysis includes data preprocessing, feature selection, machine learning-based classification, and result visualization to gain insights into BRCA subtypes.
+
 
 📌 Notebook Overview
 📂 Data Loading: Importing BRCA datasets from TCGA or other relevant sources
@@ -8,12 +8,17 @@ This repository contains a Jupyter Notebook for analyzing breast cancer (BRCA) s
 🤖 Classification: Implementing ML models (e.g., SVM, Random Forest, Neural Networks)
 ✅ Validation: Cross-validation and performance metric calculations
 📊 Visualization: Generating plots to interpret results and subtype distributions
+
+
+
 ⚙️ Technical Requirements
 Python: 3.7+
 Environment: Jupyter Notebook / Jupyter Lab
 Libraries:
 numpy, pandas, matplotlib, seaborn
 scikit-learn, tensorflow/pytorch
+
+
 📈 Expected Outputs
 ✔️ Classification performance metrics (accuracy, precision, recall, F1-score)
 ✔️ Confusion matrix for model evaluation
